@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-## 📫 Contact Me
+<h3 align="left">Contact Me</h3>
 - Email: marceloaguilera94@outlook.com
 - Location: 15 Giorgi Chikvaidze Street, Tbilisi 0198, Georgia 
 - Phone: +995 592183262
